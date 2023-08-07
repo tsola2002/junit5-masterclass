@@ -16,4 +16,15 @@ public class Calculator {
 		return a + b;
 	}
 
+	public double findSquareRoot(double num) {
+		return Math.sqrt(num);
+	}
+
+	public int divide (int a, int b){
+		return a / b;
+	}
+
+
+
 }
+
